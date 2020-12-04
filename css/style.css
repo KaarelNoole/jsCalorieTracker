@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#add-btn{
+    background-color: black;
+    color: #fff;
+}
